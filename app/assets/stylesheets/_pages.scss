@@ -8,9 +8,19 @@ body {
 
 
 .banner {
-  padding: 30px;
   margin: 0px;
   border-bottom: 1px solid white;
-  background-color: #3772FF;
+  background-color: white;
   position: sticky;
+}
+
+
+
+
+.logo {
+  img {
+  height: 130px;
+  width: 130px;
+  margin-left: 25px;
+  }
 }

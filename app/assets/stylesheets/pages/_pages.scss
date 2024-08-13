@@ -7,15 +7,18 @@ body {
 }
 
 
-.banner {
+.navbar {
   margin: 0px;
+  padding: 0px;
+  overflow: hidden;
   border-bottom: 1px solid white;
-  background-color: rgba(244, 244, 244, 0.914);
+  background-color: #f8f9fa;
   position: sticky;
 }
 
-.container {
+.container-fluid {
   margin: 0px;
+  padding: 0px;
 }
 
 
@@ -27,6 +30,11 @@ body {
   }
 }
 
+.nav-buttons {
+  margin-left: 25rem;
+}
+
 .buttons {
   margin-right: 5px;
+  padding: 14px 16px;
 }

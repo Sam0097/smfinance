@@ -11,8 +11,8 @@ body {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  border-bottom: 1px solid white;
-  background-color: #f8f9fa;
+  box-shadow: 8px 0px 6px 0px;
+  background-color: #ffffff;
   position: sticky;
 }
 
@@ -21,20 +21,25 @@ body {
   padding: 0px;
 }
 
+.nav-buttons {
+  margin-right: 45rem;
+}
 
 .logo {
   img {
   height: 130px;
-  width: 130px;
+  width: 250px;
   margin-left: 25px;
   }
 }
 
-.nav-buttons {
-  margin-left: 25rem;
-}
+
 
 .buttons {
   margin-right: 5px;
-  padding: 14px 16px;
+  padding-top: 12px;
+  font-size: large;
+  border: 1px solid #5271ff;
+  border-radius: 38px;
+  text-align: center;
 }

@@ -22,7 +22,7 @@ body {
 }
 
 .nav-buttons {
-  margin-right: 45rem;
+  margin-right: 50rem;
 }
 
 .logo {
@@ -36,10 +36,12 @@ body {
 
 
 .buttons {
-  margin-right: 5px;
   padding-top: 12px;
   font-size: large;
-  border: 1px solid #5271ff;
-  border-radius: 38px;
-  text-align: center;
+
+}
+
+.contact-button {
+  padding-top: 12px;
+  font-size: large;
 }
